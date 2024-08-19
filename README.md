@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Timur Yrmak</h1>
 <h3 align="center">I'm 23 y.o. ML/DS/DE developer from Turkey.</h3>
 
-- 📫 How to reach me **yrmaktimur@gmail.com**
+- 📫 How to reach me **yrmaktimur@gmail.com / tg : timurshska**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
